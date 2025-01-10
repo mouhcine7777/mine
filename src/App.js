@@ -51,7 +51,7 @@ const Step1Page = () => {
             alt="Step 1"
             className="fullscreen-image"
             style={{ 
-              width: '11  5%', 
+              width: '115%', 
               height: '115%', 
               objectFit: 'cover',
               transform: 'rotate(90deg)',
